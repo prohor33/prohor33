@@ -28,7 +28,6 @@ More detailes about my work experience can in my [LinkedIn](https://www.linkedin
 More about education in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Projects 🔬
-#### Main
 - [Gimme Collage](https://github.com/prohor33/gimme-collage) - Gimme Collage is a simplest solution for creating nice photo gift for your friend.
 - [Gimme Collage Express](https://github.com/prohor33/gimme-collage-express) - Gimme Collage Express is a simpliest solution for creating nice photo gift for your friend in instagram
 - [Defeat Exam!](https://github.com/prohor33/use-mathematics-2015) - Mobile iOS/Android education app
