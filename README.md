@@ -28,8 +28,9 @@ More detailes about my work experience can in my [LinkedIn](https://www.linkedin
 More about education in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Projects 🔬
-- [Gimme Collage](https://github.com/prohor33/gimme-collage) - Gimme Collage is a simplest solution for creating nice photo gift for your friend.
-- [Gimme Collage Express](https://github.com/prohor33/gimme-collage-express) - Gimme Collage Express is a simpliest solution for creating nice photo gift for your friend in instagram
+- [минутки.online](https://github.com/prohor33/minutki.online) - service for automated meeting notes generation from audio record. Done in 1 day by our SberSquad team on LeadersOfDigital hackathon.
+- [Gimme Collage](https://github.com/prohor33/gimme-collage) - simplest solution for creating nice photo gift for your friend.
+- [Gimme Collage Express](https://github.com/prohor33/gimme-collage-express) - simpliest solution for creating nice photo gift for your friend in instagram
 - [Defeat Exam!](https://github.com/prohor33/use-mathematics-2015) - Mobile iOS/Android education app
 - [Fractals](https://github.com/prohor33/math-projects/tree/master/fractals) - Build your own fractal with simple UI.
 - [Algorithms](https://github.com/prohor33/algorithms) - Basic algorithms implemented on Python
