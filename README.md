@@ -12,7 +12,7 @@ My S/W background includes practical contact with such technologies as DL, Algor
 ### Work experience 👔
 | Position                           | Company                                    | Period                  |
 | ---------------------------------- | ------------------------------------------ | ----------------------- |
-| Data Science Team Lead             | Sber                                       | 01.11.2019 — until now  |
+| Data Science Team Lead             | Sber IDP                                   | 01.11.2019 — until now  |
 | Machine Learning Research Engineer | Iponweb Ltd                                | 01.01.2019 — 01.11.2019 |
 | Machine Learning Engineer          | Megaputer Intelligence, Inc                | 01.12.2015 — 01.01.2019 |
 | C++ S/W Developer                  | Mentor Graphics Development Services Ltd   | 01.09.2013 — 01.12.2015 |
