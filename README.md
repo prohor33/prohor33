@@ -57,12 +57,12 @@ Another pet project is a game for children (done together with my wife): https:/
 - [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/4V3DV6B7XQU2) @ Coursera
 - [SQL](https://www.coursera.org/account/accomplishments/certificate/UB7GZFGTPGHC) @ Coursera
 
+More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
+
 ### Speeches 🎤
 - [NER using Efficient Attention](https://youtu.be/-CptM3qBV7A) @ Sberloga
 - [AI Jounrey](https://youtu.be/O1Tx7gUnJQM)
 - [Задача NER. Hands-on experience](https://youtu.be/lTM1tgYW72o) @ Sberloga
-
-More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Github Stats ⭐
 [![Prohor' github stats](https://github-readme-stats.vercel.app/api?username=prohor33&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
