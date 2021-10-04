@@ -58,7 +58,6 @@ Another pet project is a game for children (done together with my wife): https:/
 - [SQL](https://www.coursera.org/account/accomplishments/certificate/UB7GZFGTPGHC) @ Coursera
 
 ### Speeches 🎤
-#### DS/ML/DL
 - [NER using Efficient Attention](https://youtu.be/-CptM3qBV7A) @ Sberloga
 - [AI Jounrey](https://youtu.be/O1Tx7gUnJQM)
 - [Задача NER. Hands-on experience](https://youtu.be/lTM1tgYW72o) @ Sberloga
