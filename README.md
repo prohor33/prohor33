@@ -65,7 +65,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh
 - [Задача NER. Hands-on experience](https://youtu.be/lTM1tgYW72o) @ Sberloga
 
 ### Hackathon participation 💻
-- [Leaders of Digital. Creative Industries. Rosatom Case.](https://leadersofdigital.ru/event/63009/case/806854)
+- [Leaders of Digital. Creative Industries 2021. Rosatom Case.](https://leadersofdigital.ru/event/63009/case/806854)
 
 ### Github Stats ⭐
 [![Prohor' github stats](https://github-readme-stats.vercel.app/api?username=prohor33&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
