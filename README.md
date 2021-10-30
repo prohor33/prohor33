@@ -28,6 +28,7 @@ More detailes about my work experience can in my [LinkedIn](https://www.linkedin
 More about education in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Projects 🔬
+- [QA Roberta Ru SaaS](https://github.com/prohor33/qa-roberta-ru-saas) - Question answering on russian with XLMRobertaLarge as a service.
 - [Transformers NER](https://github.com/prohor33/transformers-ner) - Yet another BERT NER implementation with 🤗 Transformers.
 - [минутки.online](https://github.com/prohor33/minutki.online) - service for automated meeting notes generation from audio record. Done in 1 day by our SberSquad team on LeadersOfDigital hackathon.
 - [Gimme Collage](https://github.com/prohor33/gimme-collage) - simplest solution for creating nice photo gift for your friend.
