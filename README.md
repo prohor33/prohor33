@@ -61,7 +61,7 @@ Another pet project is a game for children (done together with my wife): https:/
 More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Speeches 🎤
-- [Low-code & No-code in NLP](https://youtu.be/B4qZCE3llKk) @ AIJ2021
+- [Low-code & No-code for NLP](https://youtu.be/B4qZCE3llKk) @ AIJ2021
 - [NER using Efficient Attention](https://youtu.be/-CptM3qBV7A) @ Sberloga
 - [AI Jounrey 2020](https://youtu.be/O1Tx7gUnJQM)
 - [Задача NER. Hands-on experience](https://youtu.be/lTM1tgYW72o) @ Sberloga
