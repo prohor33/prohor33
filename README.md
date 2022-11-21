@@ -2,6 +2,10 @@
 ![](https://img.shields.io/github/followers/prohor33?style=social)
 ![](https://img.shields.io/github/stars/prohor33?style=social)
 
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/prohorgladkikh)
+[![Facebook](https://img.shields.io/badge/-Facebook-003f5c?style=for-the-badge&logo=Facebook)](https://www.facebook.com/prohorgladkikh)
+[![Instagram](https://img.shields.io/badge/-Instagram-003f5c?style=for-the-badge&logo=Instagram)](https://www.instagram.com/prohorgladkikh)
+
 [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/prohor-gladkikh)
 [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/not_prohor)
 
