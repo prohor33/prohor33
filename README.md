@@ -66,6 +66,9 @@ Another pet project is a game for children (done together with my wife): https:/
 More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Speeches 🎤
+- [Как адаптировать ML-модели на примере SberBoom](https://youtu.be/4f-bbaBlFAA?si=CSi1Q5Dybvmtf8eB) @ WBDay 2023
+- [Как адаптировать ML модель под изменение поведения пользователя и повысить качество на примере умной колонки SberBoom](https://dump-ekb.ru/kak-adaptirovat-ml-model-pod-izmenenie-povedeniya-polzovatelya) @ DUMP 2023
+- [Нужно прокачать NER-модель, но как?](https://highload.ru/moscow/2022/abstracts/9560) @ HighLoad 2022
 - [Low-code & No-code for NLP](https://youtu.be/B4qZCE3llKk) @ AIJ2021
 - [NER using Efficient Attention](https://youtu.be/-CptM3qBV7A) @ Sberloga
 - [AI Jounrey 2020](https://youtu.be/O1Tx7gUnJQM)
