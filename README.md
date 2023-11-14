@@ -67,7 +67,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh
 
 ### Speeches & Articles 🎤
 - [GigaSearch или Поисковая система на GigaChat](https://habr.com/ru/companies/sberbank/articles/773180/) @ Habr
-- [А нейросети кто?](https://redbarn.ru/audio/a-nejroseti-kto/) @ Podcast ЁПРСТ 2023
+- [А нейросети кто?](https://redbarn.ru/audio/a-nejroseti-kto/) @ Podcast ЁПРСТ
 - [Как адаптировать ML-модели на примере SberBoom](https://youtu.be/4f-bbaBlFAA?si=CSi1Q5Dybvmtf8eB) @ WBDay 2023
 - [Как адаптировать ML модель под изменение поведения пользователя и повысить качество на примере умной колонки SberBoom](https://dump-ekb.ru/kak-adaptirovat-ml-model-pod-izmenenie-povedeniya-polzovatelya) @ DUMP 2023
 - [Нужно прокачать NER-модель, но как?](https://highload.ru/moscow/2022/abstracts/9560) @ HighLoad 2022
