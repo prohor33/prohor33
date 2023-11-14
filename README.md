@@ -65,7 +65,8 @@ Another pet project is a game for children (done together with my wife): https:/
 
 More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
-### Speeches 🎤
+### Speeches & Articles 🎤
+- [GigaSearch или Поисковая система на GigaChat](https://habr.com/ru/companies/sberbank/articles/773180/) @ Habr
 - [А нейросети кто?](https://redbarn.ru/audio/a-nejroseti-kto/) @ Podcast ЁПРСТ 2023
 - [Как адаптировать ML-модели на примере SberBoom](https://youtu.be/4f-bbaBlFAA?si=CSi1Q5Dybvmtf8eB) @ WBDay 2023
 - [Как адаптировать ML модель под изменение поведения пользователя и повысить качество на примере умной колонки SberBoom](https://dump-ekb.ru/kak-adaptirovat-ml-model-pod-izmenenie-povedeniya-polzovatelya) @ DUMP 2023
