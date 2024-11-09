@@ -49,7 +49,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkik
 - [Virtual Keyboard](https://github.com/prohor33/virtual-keyboard) - Virtual keyboard based on OSG. It's a part of eye-tracker project.
 - [Arkanoid](https://github.com/prohor33/cocos2dx-arkanoid) - Another classic game implementation for mobile.
 
-More projects here: www.prokh.org<br>
 Another pet project is a game for children (done together with my wife): https://goo.gl/mSZNbK
 
 ### Skills 🛠️
@@ -87,5 +86,5 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh
 ### Github Stats ⭐
 [![Prohor' github stats](https://github-readme-stats.vercel.app/api?username=prohor33&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### P.P.S.
+#### P.S.
 For the page layout many thanks to [Dani El-Ayyass](https://github.com/dayyass)
