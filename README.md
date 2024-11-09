@@ -68,6 +68,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh
 
 ### Speeches & Articles 🎤
 - [GigaSearch или RAG в GigaChat](https://youtu.be/PPx6noXZeA4?si=56k8WF4nbZYnhYCy) @GIGA R&D DAY
+- [А пруф есть? GigaSearch научился указывать ссылки на источники информации](https://habr.com/ru/companies/sberbank/news/780728/) @ Habr
 - [GigaSearch или Поисковая система на GigaChat](https://habr.com/ru/companies/sberbank/articles/773180/) @ Habr
 - [А нейросети кто?](https://redbarn.ru/audio/a-nejroseti-kto/) @ Podcast ЁПРСТ
 - [Как адаптировать ML-модели на примере SberBoom](https://youtu.be/4f-bbaBlFAA?si=CSi1Q5Dybvmtf8eB) @ WBDay 2023
