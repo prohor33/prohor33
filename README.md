@@ -10,7 +10,7 @@
 [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/not_prohor)
 
 ### Hi, my name is Prohor 👋 and I ❤️ Data Science and all that connected!
-I'm a **Data Science Team Lead** with over 3+ years experience in ML and 9 years overall in Software Engineering.
+I'm a **Data Science Team Lead** with over 6+ years experience in ML and 12 years overall in Software Engineering.
 My S/W background includes practical contact with such technologies as DL, Algorithms, Big Data, Mobile and Web.<br>
 
 ### Work experience 👔
