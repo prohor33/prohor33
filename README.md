@@ -67,7 +67,9 @@ Another pet project is a game for children (done together with my wife): https:/
 More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Speeches & Articles 🎤
+- [GigaSearch или поисковая система на GigaChat](https://youtu.be/iK00lOcCKgM?si=9EaabZD4XDvHprlf) @ODS AI
 - [GigaSearch или RAG в GigaChat](https://youtu.be/PPx6noXZeA4?si=56k8WF4nbZYnhYCy) @GIGA R&D DAY
+- [GigaSearch или Поисковая система на GigaChat](https://innopolis2024.mergeconf.ru/development/aiml/gladkikh) @Merge
 - [А пруф есть? GigaSearch научился указывать ссылки на источники информации](https://habr.com/ru/companies/sberbank/news/780728/) @ Habr
 - [GigaSearch или Поисковая система на GigaChat](https://habr.com/ru/companies/sberbank/articles/773180/) @ Habr
 - [А нейросети кто?](https://redbarn.ru/audio/a-nejroseti-kto/) @ Podcast ЁПРСТ
