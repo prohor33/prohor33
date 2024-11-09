@@ -87,8 +87,5 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh
 ### Github Stats ⭐
 [![Prohor' github stats](https://github-readme-stats.vercel.app/api?username=prohor33&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### P.S.
-We are [hiring](https://lobnya.hh.ru/vacancy/55191474?hhtmFrom=employer_vacancies)!
-
 #### P.P.S.
 For the page layout many thanks to [Dani El-Ayyass](https://github.com/dayyass)
