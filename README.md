@@ -16,7 +16,8 @@ My S/W background includes practical contact with such technologies as DL, Algor
 ### Work experience 👔
 | Position                           | Company                                    | Period                  |
 | ---------------------------------- | ------------------------------------------ | ----------------------- |
-| Data Science Team Lead             | [SberDevices](https://sberdevices.ru/)     | 24.01.2022 — until now  |
+| Data Science Team Lead             | [Yandex](https://ya.ru/)                   | 15.10.2024 — until now  |
+| Data Science Team Lead             | [SberDevices](https://sberdevices.ru/)     | 24.01.2022 — 15.10.2024 |
 | Data Science Team Lead             | Sber IDP                                   | 01.11.2019 — 24.01.2022 |
 | Machine Learning Research Engineer | Iponweb Ltd                                | 01.01.2019 — 01.11.2019 |
 | Machine Learning Engineer          | Megaputer Intelligence, Inc                | 01.12.2015 — 01.01.2019 |
@@ -66,6 +67,7 @@ Another pet project is a game for children (done together with my wife): https:/
 More certifications in my [LinkedIn](https://www.linkedin.com/in/prohor-gladkikh/).
 
 ### Speeches & Articles 🎤
+- [GigaSearch или RAG в GigaChat](https://youtu.be/PPx6noXZeA4?si=56k8WF4nbZYnhYCy) @GIGA R&D DAY
 - [GigaSearch или Поисковая система на GigaChat](https://habr.com/ru/companies/sberbank/articles/773180/) @ Habr
 - [А нейросети кто?](https://redbarn.ru/audio/a-nejroseti-kto/) @ Podcast ЁПРСТ
 - [Как адаптировать ML-модели на примере SberBoom](https://youtu.be/4f-bbaBlFAA?si=CSi1Q5Dybvmtf8eB) @ WBDay 2023
